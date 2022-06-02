@@ -1,5 +1,4 @@
-# Project Name
-> An app created to practice calling and displaying a backend API.
+# HTTP Practice
 
 ## Table of Contents
 * [General Info](#general-information)
