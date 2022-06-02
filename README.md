@@ -25,9 +25,8 @@
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Todo list Adds, Updates and Deletes an item from the list.
+- Uses Toastify to prompt the user with an error message.
 
 ## Setup
 Clone this repo to your desktop and run npm install to install all the dependencies.
